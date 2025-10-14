@@ -1,0 +1,29 @@
+{
+    "version": "0.1.1",
+    "architecture": {
+        "32bit": {
+            "url": "https://github.com/connorgannaway/how/releases/download/v0.1.1/how_Windows_i386.zip",
+            "bin": [
+                "how.exe"
+            ],
+            "hash": "c200f3cf489e6854f1c180bd5900cd1f54f51c63440de2b6c9a65ede4687e6b8"
+        },
+        "64bit": {
+            "url": "https://github.com/connorgannaway/how/releases/download/v0.1.1/how_Windows_x86_64.zip",
+            "bin": [
+                "how.exe"
+            ],
+            "hash": "75ba7590c9c5239d1335334d306b80a692bc3937d8cd2f1f820781a534a952fa"
+        },
+        "arm64": {
+            "url": "https://github.com/connorgannaway/how/releases/download/v0.1.1/how_Windows_arm64.zip",
+            "bin": [
+                "how.exe"
+            ],
+            "hash": "76c971bd39e18ebb72a42610811b49cb2bd902ddecd64d05b3eb26c15af28952"
+        }
+    },
+    "homepage": "https://github.com/connorgannaway/how",
+    "license": "MIT",
+    "description": "AI-powered terminal command assistant."
+}
