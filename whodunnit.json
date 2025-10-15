@@ -1,0 +1,29 @@
+{
+    "version": "0.2.2",
+    "architecture": {
+        "32bit": {
+            "url": "https://github.com/connorgannaway/whodunnit/releases/download/v0.2.2/whodunnit_Windows_i386.zip",
+            "bin": [
+                "whodunnit.exe"
+            ],
+            "hash": "8653fe65b033198b04992d5ef9b385a6cf89819b625716743698230f18bb21f1"
+        },
+        "64bit": {
+            "url": "https://github.com/connorgannaway/whodunnit/releases/download/v0.2.2/whodunnit_Windows_x86_64.zip",
+            "bin": [
+                "whodunnit.exe"
+            ],
+            "hash": "b8bb01e7a2bbb518b26393200894f19f769346473a7307f099b002d9e7f25b22"
+        },
+        "arm64": {
+            "url": "https://github.com/connorgannaway/whodunnit/releases/download/v0.2.2/whodunnit_Windows_arm64.zip",
+            "bin": [
+                "whodunnit.exe"
+            ],
+            "hash": "ec60685e906ce77f45b408c80ab9d608ab5d4ba0844a747b13b756dab177bc15"
+        }
+    },
+    "homepage": "https://github.com/connorgannaway/whodunnit",
+    "license": "MIT",
+    "description": "Tool for counting and blaming lines in a repo."
+}
