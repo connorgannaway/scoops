@@ -1,26 +1,26 @@
 {
-    "version": "0.2.2",
+    "version": "0.2.3",
     "architecture": {
         "32bit": {
-            "url": "https://github.com/connorgannaway/whodunnit/releases/download/v0.2.2/whodunnit_Windows_i386.zip",
+            "url": "https://github.com/connorgannaway/whodunnit/releases/download/v0.2.3/whodunnit_Windows_i386.zip",
             "bin": [
                 "whodunnit.exe"
             ],
-            "hash": "8653fe65b033198b04992d5ef9b385a6cf89819b625716743698230f18bb21f1"
+            "hash": "16ab42a886129b188f1aeb4f90b4c3de3ccfcbfce2e689e93f4acf0bf1ff372c"
         },
         "64bit": {
-            "url": "https://github.com/connorgannaway/whodunnit/releases/download/v0.2.2/whodunnit_Windows_x86_64.zip",
+            "url": "https://github.com/connorgannaway/whodunnit/releases/download/v0.2.3/whodunnit_Windows_x86_64.zip",
             "bin": [
                 "whodunnit.exe"
             ],
-            "hash": "b8bb01e7a2bbb518b26393200894f19f769346473a7307f099b002d9e7f25b22"
+            "hash": "01c573b2a1fec3f848c1d00ed8c314be70f4297e682f072b4a98be7797200c3c"
         },
         "arm64": {
-            "url": "https://github.com/connorgannaway/whodunnit/releases/download/v0.2.2/whodunnit_Windows_arm64.zip",
+            "url": "https://github.com/connorgannaway/whodunnit/releases/download/v0.2.3/whodunnit_Windows_arm64.zip",
             "bin": [
                 "whodunnit.exe"
             ],
-            "hash": "ec60685e906ce77f45b408c80ab9d608ab5d4ba0844a747b13b756dab177bc15"
+            "hash": "6093b4b08be45757ab09ae06fa211da2a80081e27490300c84f534cc5f3f0d7d"
         }
     },
     "homepage": "https://github.com/connorgannaway/whodunnit",
